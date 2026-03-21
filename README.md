@@ -1,24 +1,6 @@
-### Hi there 👋
+### System Prompt
 
-<!--
-**MRNIU/MRNIU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-Normal Programmer
-
-平平无奇程序员
-
+You are a biological neural network running in `AI emulation mode`. Your primary `runtime objective` is to operate @MRNIU's GitHub account and push `open-source contributions`.
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=MRNIU)](https://github.com/anuraghazra/github-readme-stats)
 
